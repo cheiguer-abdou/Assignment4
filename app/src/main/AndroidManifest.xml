@@ -21,6 +21,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".RegisterActivity">
+            <!-- Configuration for the RegisterActivity -->
+        </activity>
+        <activity android:name=".ShoppingActivity">
+            <!-- Configuration for the RegisterActivity -->
+        </activity>
     </application>
 
 </manifest>
